@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MeasureIt</string>
+    <string name="bt_stateDisabled">Bluetooth is not enabled, enable bluetooth module!</string>
+    <string name="title_activity_s">s</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="tTempDHT">Temperature DHT 11</string>
+    <string name="tTempVer">Temperature Vernier</string>
+    <string name="tHumidity">Humidity</string>
+    <string name="tLatitude">Latitude</string>
+    <string name="tLongitude">Lognitude</string>
+    <string name="tLux">Lux</string>
+    <string name="tShow">--===Show===--</string>
+    <string name="clear">Clear</string>
+    <string name="stop">Stop</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+</resources>
