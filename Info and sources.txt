@@ -1,0 +1,22 @@
+########## DHT 11 ###############
+Libraries and setup remember to use 1.2.3 version. 
+Check scetch/includelibrary/managelibraries [ type dht 11] and check version of driver. 
+Clik more info to change.
+http://www.jarzebski.pl/arduino/czujniki-i-sensory/czujnik-wilgotnosci-i-temperatury-dht11-dht22.html
+#################################
+######## GPS/GSM SIM 808 ########
+https://www.elecrow.com/wiki/index.php?title=SIM808_GPRS/GSM%2BGPS_Shield_v1.1
+https://wiki.eprolabs.com/index.php?title=SIM_808_GSM_GPRS_Module
+https://cdn-shop.adafruit.com/datasheets/SIM808_GPS_Application_Note_V1.00.pdf
+http://www.prometec.net/sim808/ [Translate it in google webpage translator cause its in Spanish]
+#################################
+######## SD Card ################
+https://www.arduino.cc/en/Reference/SDCardNotes
+
+#################################
+###########Arduino docs##########
+https://www.arduino.cc/en/Tutorial/StringCharacters
+
+#################################
+########Android##################
+https://www.youtube.com/watch?v=dFlPARW5IX8&t=1205s //Android tutorial pt.1
